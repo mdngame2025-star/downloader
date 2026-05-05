@@ -77,8 +77,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [dfb6d2d82ca7c0875d303dbfde62fa74-1777990465](https://github.com/mdngame2025-star/downloader/tree/main/downloads/dfb6d2d82ca7c0875d303dbfde62fa74-1777990465)
+
+2. [dfb6d2d82ca7c0875d303dbfde62fa74-1777990465_zeta](https://github.com/mdngame2025-star/downloader/tree/main/downloads/dfb6d2d82ca7c0875d303dbfde62fa74-1777990465_zeta)
 
 ---
